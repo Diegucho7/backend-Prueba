@@ -1,0 +1,19 @@
+{
+  "name": "backend-prueba",
+  "version": "1.0.0",
+  "description": "Prueba de formulario",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Velarde",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "docker": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
